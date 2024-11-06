@@ -2,7 +2,9 @@
 # depth: c('surface','mesopelagic','bathypelagic','abyssopelagic')
 # scenario: c('ssp126','ssp245','ssp585')
 # year: seq(2021,2100) (baseline year 2020)
-# set surface - ssp126 and ssp585 in year 2050/2100 as an example
+# the demo data for running the script can be downloaded elsewhere. See `readme.md`
+# setting for demo data: surface - ssp126 and ssp585 in year 2050/2100 as an example
+# change the file names as needed
 
 library(magrittr)
 library(dplyr)
