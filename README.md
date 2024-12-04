@@ -12,3 +12,4 @@ For running the demo data, download the demo_data.zip from FigShare (https://doi
 
 # Citation
 Please refer to the zenodo DOI (10.5821/zenodo.14271879) when you need to cite this repository.
+![image](https://github.com/user-attachments/assets/0ddff341-b649-4062-9522-a80e24ae6881)
