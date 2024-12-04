@@ -11,4 +11,4 @@ For running the demo data, download the demo_data.zip from FigShare (https://doi
 
 
 # Citation
-Please refer to the following DOI when you need to cite these script: doi: 10.5821/zenodo.14271879
+Please refer to the zenodo DOI (10.5821/zenodo.14271879) when you need to cite this repository.
