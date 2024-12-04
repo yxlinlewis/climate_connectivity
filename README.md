@@ -8,3 +8,7 @@ The `code_data_preprocessing` includes all raw data included in preprocessing.
 # Climate connectivity modelling (connectivity_linkage)
 
 For running the demo data, download the demo_data.zip from FigShare (https://doi.org/10.6084/m9.figshare.27061555.v2).
+
+
+# Citation
+Please refer to the following DOI when you need to cite these script: doi: 10.5821/zenodo.14271879
